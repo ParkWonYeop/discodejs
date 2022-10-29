@@ -91,4 +91,4 @@ lerna-debug.log
 Thumbs.db
 
 #bot-config
-./config.json
+./mybot/config.json
